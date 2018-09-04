@@ -27,6 +27,15 @@
     text-align: center;
 }
 
+.text-white {
+    color: white;
+}
+
+.text-gray {
+    color: rgb(43, 41, 41);
+}
+
+
 .link-list {
     font-style: italic; 
     text-decoration: underline;
